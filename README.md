@@ -152,14 +152,11 @@ UrbanLoad contributes to sustainable urban development by:
 - Lowering carbon emissions
 - Advancing clean energy goals
 
-## 👥 Team
-
-Made with 💡 by **Team Ctrl+Alt+Defeat (HAE-043)** — Hackera'25 Submission
 
 ## 📞 Contact
 
 For queries or contributions, please contact:
-- Email: [pavincletus123@gmail.com](mailto:pavincletus123@gmail.com)
+- Email: [pavincletus123@gmail.com](mailto:karthikeyanbabu02@gmail.com)
 
 ## 📄 License
 
