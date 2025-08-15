@@ -156,7 +156,7 @@ UrbanLoad contributes to sustainable urban development by:
 ## 📞 Contact
 
 For queries or contributions, please contact:
-- Email: [pavincletus123@gmail.com](mailto:karthikeyanbabu02@gmail.com)
+- Email: [karthikeyanbabu02@gmail.com](mailto:karthikeyanbabu02@gmail.com)
 
 ## 📄 License
 
